@@ -1,6 +1,8 @@
-# Bow - Broadcast Over WebSocket
+![Bow - Broadcast Over WebSocket](https://image.ibb.co/kaJCT6/bow_logo_1.png "Bow - Broadcast Over WebSocket")
 
 Bow helps you building a multitenant WebSocket server that fits into a microservice architecture.
+
+----------
 
 ## State
 
